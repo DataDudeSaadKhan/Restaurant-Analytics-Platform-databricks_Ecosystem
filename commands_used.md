@@ -1,4 +1,4 @@
-#### Add `Minimal Compute Policy` To Lakeflow Connect Ingestion Gateway Pipeline
+#### `Minimal Compute Policy` To Minimize The Cost Of Lakeflow Connect Ingestion Gateway Pipeline
 ```bash
 databricks pipelines list-pipelines --output json
 
